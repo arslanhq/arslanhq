@@ -1,0 +1,8 @@
+# Public profile review ownership — no private project access is implied.
+# CODEOWNERS requests the appropriate account's review on public-profile PRs.
+# It does not enforce approval until a repository branch/ruleset policy is enabled.
+* @arslanhq
+
+/.github/workflows/ @arslanhq
+/scripts/ @arslanhq
+/.github/dependabot.yml @arslanhq
