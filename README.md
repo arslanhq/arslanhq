@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohamad Arslan
+# Mohammad Arslan
 
 **Founder & Product Builder · [DataVista Studio](https://datavista.studio/)**
 
