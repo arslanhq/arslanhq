@@ -6,7 +6,7 @@
 
 Building media, information and operational products that solve real problems.
 
-[**16 DataVista projects**](https://github.com/DataVistaStudio/DataVistaStudio/blob/main/portfolio/README.md) · [**بالعربية**](https://github.com/DataVistaStudio/DataVistaStudio/blob/main/portfolio/README.ar.md) · [**Project card gallery**](https://github.com/DataVistaStudio/DataVistaStudio/blob/main/portfolio/visual-tour.md) · [**11 observatories**](https://datavista.studio/#home-observatories) · [**Contact**](https://datavista.studio/contact)
+[**16 DataVista projects**](https://github.com/DataVistaStudio/DataVistaStudio/blob/main/portfolio/README.md) · [**بالعربية**](https://github.com/DataVistaStudio/DataVistaStudio/blob/main/portfolio/README.ar.md) · [**Project card gallery**](https://github.com/DataVistaStudio/DataVistaStudio/blob/main/portfolio/visual-tour.md) · [**11 observatories**](https://github.com/DataVistaStudio/DataVistaStudio/blob/main/portfolio/observatories.md) · [**Contact**](https://datavista.studio/contact)
 
 </div>
 
