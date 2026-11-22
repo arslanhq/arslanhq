@@ -55,6 +55,9 @@ For product partnerships, media workflows and thoughtful implementations:
 
 [**DataVista Studio**](https://github.com/DataVistaStudio) · [**Official portfolio**](https://github.com/DataVistaStudio/DataVistaStudio) · [**Contact**](https://datavista.studio/contact)
 
+
+**Professional and responsible publishing:** [DataVista portfolio policy](https://github.com/DataVistaStudio/DataVistaStudio/blob/main/docs/PUBLISHING_POLICY.md) · [Security contact](https://github.com/DataVistaStudio/DataVistaStudio/blob/main/SECURITY.md)
+
 ---
 
 <sub>Commercial source code, private operating systems, customer data and licensed datasets are not published in this portfolio.</sub>
