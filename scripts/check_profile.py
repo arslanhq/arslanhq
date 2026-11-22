@@ -44,14 +44,15 @@ def main():
     images = re.findall(r'<img\s+src="([^"]+)"', body)
     expected_art = "https://datavista.studio/assets/portfolio-20261122/cards/"
     names = {x.rsplit("/", 1)[-1] for x in images if x.startswith(expected_art)}
-    if names != {"newsroom.jpg", "market-961-menu.jpg", "people-report.jpg", "experts2.jpg"}:
-        errors.append("four featured project cards have changed unexpectedly")
+    expected_jpg = {"newsroom.jpg", "market-961-menu.jpg", "people-report.jpg", "experts2.jpg", "cr-multiview.jpg", "satr-academy.jpg", "ebook.jpg", "stock.jpg", "961-menu.jpg", "talk.jpg"}
+    if names != expected_jpg:
+        errors.append("ten approved image-based project cards have changed unexpectedly")
     editorial_prefix = "https://raw.githubusercontent.com/DataVistaStudio/DataVistaStudio/main/media/cards/"
     expected_vectors = {"observatories.svg", "flashnews.svg", "economy-desk.svg", "news-map.svg", "aparat.svg", "jobvista.svg"}
     vectors = {url.rsplit("/", 1)[-1] for url in images if url.startswith(editorial_prefix)}
     if vectors != expected_vectors:
         errors.append("six curated founder editorial artworks are incomplete")
-    if len(images) != 10:
+    if len(images) != 16:
         errors.append("unexpected image count in founder profile")
     if any(urlsplit(x).scheme != "https" for x in images):
         errors.append("non-HTTPS project image")
@@ -60,7 +61,7 @@ def main():
         for problem in errors:
             print("-", problem)
         return 1
-    print("FOUNDER_PROFILE_PASS | correct account ID | 10 approved project images | company links")
+    print("FOUNDER_PROFILE_PASS | correct account ID | 16 approved project images | company links")
     return 0
 
 

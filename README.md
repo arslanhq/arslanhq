@@ -39,7 +39,7 @@ Building media, information and operational products that solve real problems.
 
 ## Editorial projects &amp; concepts
 
-Six additional art-directed cards give each project its own visual language, with the same format and clear access labels. The artwork is illustrative, not an application screenshot.
+Six individual art-directed cards give each project its own visual language, with the same format and clear access labels. The artwork is illustrative, not an application screenshot.
 
 <table>
 <tr><td width="50%" valign="top"><a href="https://datavista.studio/observatories/"><img src="https://raw.githubusercontent.com/DataVistaStudio/DataVistaStudio/main/media/cards/observatories.svg" width="600" alt="OBSERVATORIES original editorial art card" /></a><p><strong>OBSERVATORIES</strong> · Public<br/>Regional monitoring and editorial research.</p></td>
@@ -50,11 +50,44 @@ Six additional art-directed cards give each project its own visual language, wit
 <td width="50%" valign="top"><a href="https://datavista.studio/jobvista/"><img src="https://raw.githubusercontent.com/DataVistaStudio/DataVistaStudio/main/media/cards/jobvista.svg" width="600" alt="JOBVISTA original editorial art card" /></a><p><strong>JOBVISTA</strong> · Concept<br/>Professional opportunities exploration.</p></td></tr>
 </table>
 
-## Beyond the highlights
+## Additional DataVista platforms
 
-The complete DataVista portfolio also includes **CR Multiview**, **Al Mayadeen Talk**, **SATR Academy**, **EBOOK**, **Stock** and **961.menu**. See all 16 projects for artwork, launch status and public access details.
+Six further projects complete the public portfolio. Cards reflect the current public access level and do not represent production approval.
 
-**[Browse all 16 project cards](https://github.com/DataVistaStudio/DataVistaStudio/blob/main/portfolio/README.md)**
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://datavista.studio/cr/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/cr-multiview.jpg" width="600" alt="CR Multiview editorial project card" /></a>
+<p><strong>CR Multiview</strong> · Restricted<br/>Broadcast multiview and controlled recording.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://datavista.studio/academy/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/satr-academy.jpg" width="600" alt="SATR Academy editorial project card" /></a>
+<p><strong>SATR Academy</strong> · Public catalogue<br/>Courses, instructors and learning workflows.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://datavista.studio/ebook/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/ebook.jpg" width="600" alt="EBOOK Library editorial project card" /></a>
+<p><strong>EBOOK Library</strong> · Public catalogue<br/>Source-linked Arabic books and authors.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://datavista.studio/stock/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/stock.jpg" width="600" alt="DataVista Stock editorial project card" /></a>
+<p><strong>DataVista Stock</strong> · Preview<br/>Asset discovery and market information; not live trading.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://961.menu/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/961-menu.jpg" width="600" alt="961.menu editorial project card" /></a>
+<p><strong>961.menu</strong> · Live service<br/>Digital merchant pages, menus and orders.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://meet.almayadeen.online/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/talk.jpg" width="600" alt="Al Mayadeen Talk editorial project card" /></a>
+<p><strong>Al Mayadeen Talk</strong> · Restricted<br/>Media interview and production workflows.</p>
+</td>
+</tr>
+</table>
+
+**[Browse the complete DataVista portfolio](https://github.com/DataVistaStudio/DataVistaStudio/blob/main/portfolio/README.md)**
 
 ## About
 
