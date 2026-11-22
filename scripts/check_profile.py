@@ -20,15 +20,23 @@ EXPECTED_ENV = {
 
 def verify_workflows_are_read_only(problems):
     """Check simple CI safety invariants, not a substitute for human review."""
-    files = sorted((ROOT / ".github" / "workflows").glob("*.yml"))
+    workflow_dir = ROOT / ".github" / "workflows"
+    files = sorted((*workflow_dir.glob("*.yml"), *workflow_dir.glob("*.yaml")))
     if not files:
         problems.append("missing GitHub Actions workflows")
     for workflow in files:
         source = workflow.read_text(encoding="utf-8")
         if not re.search(r"(?m)^permissions:\s*\n\s+contents:\s*read\s*$", source):
             problems.append(f"{workflow.name}: missing explicit read-only token scope")
-        if re.search(r"(?m)^\s*pull_request_target\s*:", source):
-            problems.append(f"{workflow.name}: unsafe privileged PR trigger")
+        if re.search(r"(?m)^\s*(?:pull_request_target|workflow_run)\s*:", source):
+            problems.append(f"{workflow.name}: privileged workflow trigger")
+        if re.search(r"(?m)^\s*permissions:\s*write-all\s*$", source):
+            problems.append(f"{workflow.name}: overly broad write permissions")
+        if re.search(
+            r"(?m)^\s*(?:actions|attestations|checks|contents|deployments|discussions|id-token|issues|models|packages|pages|pull-requests|security-events|statuses):\s*write\s*(?:#.*)?$",
+            source,
+        ):
+            problems.append(f"{workflow.name}: write-scoped GITHUB_TOKEN is not permitted")
         if re.search(r"(?m)^\s*runs-on:\s*.*self-hosted", source):
             problems.append(f"{workflow.name}: unexpected self-hosted runner")
         for action in re.findall(r"(?m)^\s*uses:\s*([^\s#]+)", source):
