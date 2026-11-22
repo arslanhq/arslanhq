@@ -56,6 +56,30 @@ def main():
         errors.append("unexpected image count in founder profile")
     if any(urlsplit(x).scheme != "https" for x in images):
         errors.append("non-HTTPS project image")
+    # Prevent a public profile edit from overstating a product launch or access.
+    expected_access = {
+        "Market.961.MENU": "Preparing for launch",
+        "CR Multiview": "Restricted",
+        "Al Mayadeen Talk": "Restricted",
+        "DataVista Stock": "Preview",
+        "JOBVISTA": "Concept",
+        "SATR Academy": "Public catalogue",
+        "EBOOK Library": "Public catalogue",
+    }
+    for project, label in expected_access.items():
+        marker = f"<strong>{project}</strong> · {label}"
+        if marker not in body:
+            errors.append(f"incorrect or missing launch/access label: {project}")
+    for expected in (
+        "https://market.961.menu/",
+        "https://datavista.studio/cr/",
+        "https://meet.almayadeen.online/",
+        "https://datavista.studio/stock/",
+    ):
+        if expected not in body:
+            errors.append(f"missing canonical public destination: {expected}")
+    if "not screenshots or promises of production functionality" not in body:
+        errors.append("portfolio illustration disclaimer missing")
     if errors:
         print("FOUNDER_PROFILE_FAIL", len(errors))
         for problem in errors:
