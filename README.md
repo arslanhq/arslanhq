@@ -53,7 +53,7 @@ I value practical design, clear documentation and release boundaries. Public por
 
 For product partnerships, media workflows and thoughtful implementations:
 
-[**DataVista Studio**](https://github.com/DataVistaStudio) · [**Official portfolio**](https://github.com/DataVistaStudio/DataVistaStudio) · [**Contact**](https://datavista.studio/contact)
+[**DataVista Studio**](https://github.com/DataVistaStudio) · [**Official portfolio**](https://github.com/DataVistaStudio/DataVistaStudio) · [**Collaboration areas**](https://github.com/DataVistaStudio/DataVistaStudio/blob/main/docs/COLLABORATION.md) · [**Contact**](https://datavista.studio/contact)
 
 
 **Professional and responsible publishing:** [DataVista portfolio policy](https://github.com/DataVistaStudio/DataVistaStudio/blob/main/docs/PUBLISHING_POLICY.md) · [Security contact](https://github.com/DataVistaStudio/DataVistaStudio/blob/main/SECURITY.md)
