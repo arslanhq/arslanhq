@@ -2,11 +2,11 @@
 
 # Mohammad Arslan
 
-**Founder & Product Builder · [DataVista Studio](https://datavista.studio/)**
+**Founder & Product Builder · [DataVista Studio](https://github.com/DataVistaStudio)**
 
-Building practical products around information, media, operations and digital services.
+I build products that turn information, media operations and recurring workflows into tools teams can actually use.
 
-[DataVista Studio](https://datavista.studio/) · [Selected work](https://datavista.studio/work) · [Products](https://datavista.studio/products) · [Contact](https://datavista.studio/contact)
+[**Current DataVista projects**](https://github.com/DataVistaStudio/DataVistaStudio/blob/main/portfolio/README.md) · [**بالعربية**](https://github.com/DataVistaStudio/DataVistaStudio/blob/main/portfolio/README.ar.md) · [**Real product screenshots**](https://github.com/DataVistaStudio/DataVistaStudio/blob/main/portfolio/visual-tour.md) · [**Contact**](https://datavista.studio/contact)
 
 </div>
 
@@ -14,47 +14,51 @@ Building practical products around information, media, operations and digital se
 
 ## About
 
-I founded **DataVista Studio** to turn complex information flows and recurring operational problems into tools people can use every day.
+Based in **Beirut, Lebanon**, I work across digital product design and delivery, media tools, structured data, publishing, monitoring, commerce and educational platforms.
 
-My work brings together product direction, hands-on implementation, editorial and media workflows, structured data, automation, and commercial platforms. I focus on what the product needs to accomplish, how it works in real conditions, and how it can be maintained.
+The projects below are **real products or clearly labelled previews**, not a gallery of generated concepts. Source code, private data and production operations stay protected.
 
-**Based in Lebanon · Working across Arabic and English products.**
+## Current work
 
-## Selected work
-
-| Product | What it does | Explore |
+| Product / platform | What I am building or operating | Explore |
 | --- | --- | --- |
-| **961.menu** | Digital storefronts, menus, QR access and ordering workflows for businesses in Lebanon. | [961.menu](https://961.menu/) |
-| **DataVista monitoring** | Continuous news-source collection, regional observatories and editorial discovery tools. | [Insights](https://datavista.studio/insights) |
-| **DataVista EBOOK** | An Arabic book and author catalogue built around structured records and source references. | [Library](https://datavista.studio/ebook/) |
-| **SATR Academy** | An Arabic/English learning and course-management product. | [Products](https://datavista.studio/products) |
-| **Media production tools** | Multiview monitoring, controlled recording and live-interview workflows. | [Selected work](https://datavista.studio/work) |
-| **GuestCall** | A public product concept for finding relevant guests and experts for media productions. | [Case study](https://github.com/ZoroTV/guestcall) |
+| **DataVista Guests / Experts2** | Structured guest applications, expertise, review and media appearance preferences. | [Join workflow](https://datavista.studio/experts2/join.php?lang=ar) |
+| **People Report** | Guest discovery, public professional profiles and interview preparation. | [Public directory](https://datavista.studio/people_report/) |
+| **DataVista Newsroom** | Source-based monitoring, live news discovery and editorial filters. | [Newsroom](https://datavista.studio/newsroom/) |
+| **SATR Academy** | Courses, instructors and bilingual learning workflows. | [Course catalogue](https://datavista.studio/academy/public/catalog.php?lang=ar) |
+| **DataVista EBOOK** | Searchable Arabic book and author records with source links. | [Library](https://datavista.studio/ebook/) |
+| **CR Multiview & media production** | Multi-source broadcast monitoring, recording and controlled production tools. | [CR](https://datavista.studio/cr/) |
+| **DataVista Marketplace** | A classifieds product for Lebanon, with a separate public preview. | [Preview](https://datavista.studio/marketplace/) |
+| **DataVista Stock** | Research and discovery interfaces; public page is informational, not a live trading terminal. | [Preview](https://datavista.studio/stock/) |
+| **961.menu** | Digital menus, storefronts, orders and merchant workflows. | [Live site](https://961.menu/) |
+| **Aparat** | Persian-to-Arabic audiovisual translation workflows. | [Public interface](https://datavista.studio/aparat/) |
 
-These projects have different levels of access and maturity. A public product description does not mean its source code or operational systems are public.
+There is more work in the studio portfolio, including observatories, data interfaces and independent prototypes:
 
-## A look at the work
+**[Browse the complete, maintained DataVista project directory](https://github.com/DataVistaStudio/DataVistaStudio/blob/main/portfolio/README.md)**
 
-<a href="https://datavista.studio/insights">
-  <img src="https://datavista.studio/assets/content/observatory-preview-usa.webp" alt="Actual DataVista observatory interface showing news-source monitoring and filters" width="760" />
+## Inside a real product
+
+<a href="https://github.com/DataVistaStudio/DataVistaStudio/blob/main/portfolio/visual-tour.md">
+  <img src="https://raw.githubusercontent.com/DataVistaStudio/DataVistaStudio/main/media/people-report-public-directory-20261122.png" width="760" alt="Actual public People Report guest research interface on DataVista, captured November 2026" />
 </a>
 
-<sub>Actual DataVista interface image, from the official website. Product interfaces evolve.</sub>
+*Actual public DataVista interface. The linked walkthrough also shows Experts2 applications, SATR courses and the Marketplace preview. No generated product images.*
 
-## What I care about
+## Work principles
 
-- **Practical design:** readable screens, clear workflows and useful defaults.
-- **Reliable data:** source context, structured records and traceable updates.
-- **Operational quality:** tested changes, documented decisions and responsible releases.
-- **Ownership:** sensible boundaries between public work and protected business systems.
-- **Sustainable products:** tools that solve recurring problems rather than one-off demos.
+- Build functional tools, not disposable demos.
+- Make information searchable, contextual and traceable.
+- Treat security and customer privacy as design boundaries.
+- Document what is shipped, what is still a preview and what requires operator access.
+- Use authentic product images and clear, human-readable explanations.
 
-## Working together
+## Collaboration
 
-I am interested in product partnerships, media and data workflows, commercial implementations and carefully scoped technical collaborations.
+I welcome focused discussions on media workflows, publishing, structured data, product partnerships and implementation.
 
-**[Explore DataVista Studio](https://datavista.studio/)** · **[Get in touch](https://datavista.studio/contact)**
+**[DataVista Studio](https://github.com/DataVistaStudio)** · **[Professional portfolio](https://github.com/DataVistaStudio/DataVistaStudio)** · **[Contact](https://datavista.studio/contact)**
 
 ---
 
-<sub>Public repositories here may include experiments, forks and learning material. They are not automatically DataVista products. Commercial source code, infrastructure, customer data and private operations remain protected.</sub>
+<sub>The public portfolio does not imply that commercial source code, customer information or private workflows are open source or available for redistribution.</sub>
