@@ -32,6 +32,10 @@ def verify_workflows_are_read_only(problems):
             problems.append(f"{workflow.name}: privileged workflow trigger")
         if re.search(r"(?m)^\s*permissions:\s*write-all\s*$", source):
             problems.append(f"{workflow.name}: overly broad write permissions")
+        if re.search(r"(?m)^[ \t]+permissions:[ \t]*[^#\r\n \t]", source):
+            problems.append(f"{workflow.name}: nested inline permissions require a separate security review")
+        if re.search(r"(?im)\b(?:curl|wget)\b[^\r\n]*\|[ \t]*(?:bash|sh)\b", source):
+            problems.append(f"{workflow.name}: piping downloaded code to a shell is not permitted")
         if re.search(
             r"(?m)^\s*(?:actions|attestations|checks|contents|deployments|discussions|id-token|issues|models|packages|pages|pull-requests|security-events|statuses):\s*write\s*(?:#.*)?$",
             source,
