@@ -1,132 +1,60 @@
-# Arslan · DataVista
+<div align="center">
 
-**Founder & Product Builder — [DataVista Studio](https://datavista.studio/)**
+# Mohamad Arslan
 
-I build and operate commercial digital products across **data, monitoring, media technology, SaaS, broadcasting, education, financial intelligence, and business systems**.
+**Founder & Product Builder · [DataVista Studio](https://datavista.studio/)**
 
-> DataVista turns information flow into useful products, monitoring systems, dashboards, alerts, and operational tools.
+Building practical products around information, media, operations and digital services.
 
-## Flagship work
+[DataVista Studio](https://datavista.studio/) · [Selected work](https://datavista.studio/work) · [Products](https://datavista.studio/products) · [Contact](https://datavista.studio/contact)
 
-| Product / Platform | What it does |
-|---|---|
-| [961.menu](https://961.menu/) | Digital commerce platform for Lebanese businesses: storefront, menu/catalog, QR, ordering, WhatsApp intake, live dashboard, kitchen workflow, delivery operations, staff access, analytics and merchant discovery |
-| [SATR Academy](https://satr.academy/) | Bilingual learning and academic-management platform |
-| [Al Mayadeen Talk](https://meet.almayadeen.online/) | Browser-based professional interview and live-production workspace |
-| [Conscious Woman](https://cwassociation.org/) | Bilingual publishing, community, opportunities, and member platform |
-| Economy Desk | Financial markets, commodities, regional indicators, and economic intelligence |
-| [GuestCall](https://github.com/ZoroTV/guestcall) | Media guest discovery and matching concept |
-
-## Featured: 961.menu
-
-**961.menu** is a commercial platform built to help businesses in Lebanon launch and operate a complete digital presence without technical experience.
-
-It brings together:
-
-- Dedicated business page and discoverable listing
-- Digital menu / product catalog
-- QR-based access and ordering
-- WhatsApp + dashboard order intake
-- Live merchant dashboard
-- Kitchen order screen
-- Delivery and driver operations
-- Staff accounts and permissions
-- Reporting, sales insights, and product performance
-- Custom-domain support
-- Interactive demo environment
-- Partner / recurring-commission model
-
-The platform is designed as a **multi-business product**, starting with food businesses and structured for broader categories over time.
-
-→ [Visit 961.menu](https://961.menu/) · [Try the demo](https://961.menu/demo/)
-
-**Commercial source code and production infrastructure are private.**
-
-## Featured: Al Mayadeen Talk
-
-**Al Mayadeen Talk** is a browser-based professional media workspace for interviews, live contribution, and broadcast-oriented production workflows.
-
-Core capabilities include:
-
-- Browser interview rooms
-- Professional preview / program workflow
-- SRT source integration
-- Hardware-source workflows
-- Saved source connections
-- Live production controls
-- Media-oriented operational UX
-- Bilingual production environment
-
-→ [Open Al Mayadeen Talk](https://meet.almayadeen.online/)
-
-**Production source code, infrastructure, credentials, and private broadcast integrations remain private.**
-
-## DataVista News Monitoring Network
-
-A live **media-monitoring and news-intelligence ecosystem** for continuous source collection, organization, regional context, rapid discovery, and editorial research.
-
-**11 live observatories**
-
-General · United States · Arab World · Russia · Iran · Pakistan · Hebrew Media · Lebanon · Iraq · Africa · News Agencies
-
-Also includes:
-
-- **Flash News — Arabic Sources**
-- Regional and source-based monitoring
-- Source intake and verification workflows
-- Large continuously growing news archives
-- Live monitoring interfaces for editorial and research use
-
-### Monitoring use cases
-
-**Newsrooms · Researchers · Media monitoring · Regional intelligence · Source tracking · Breaking-news discovery · Archive research**
-
-→ [Explore the monitoring network](https://datavista.studio/)
-
-## More DataVista products & work
-
-- **DataVista Tools** — PDF, image, text, SEO, and AI utilities
-- **DataVista Stream** — workspace for news, signals, and information
-- **IQ Data** — structured data and information platform
-- **RESLANCO** — B2B wholesale ordering platform
-- **Fatima Fattouni Archive** — living digital archive project
-- **Flash News — Arabic Sources** — fast Arabic-source news monitoring
-
-## Projects in Study / Experimental
-
-These projects are **under study, prototyping, or active experimentation** and are shown separately from production-ready products.
-
-- **TV Platform** — exploratory work around a broader television / media platform concept
-- **Rasd 1** — experimental monitoring workspace → [datavista.studio/rasd1](https://datavista.studio/rasd1)
-- **LiveTV-9** — live-TV and multi-source viewing experiments
-- **MultiViewer** — multi-feed / multi-screen viewing concept for media monitoring and production workflows
-
-These projects may change substantially before any commercial release. Public presentation does not imply that source code or production infrastructure is open.
-
-## Focus
-
-**Data Platforms · News Monitoring · Media Intelligence · SaaS · Broadcast Technology · Financial Intelligence · Education · Commerce · POS-oriented Systems · AR/EN Products · White-label Platforms**
-
-## Commercial model
-
-Selected products can be developed or offered through:
-
-**Licensing · White-label deployment · Custom implementation · Product partnerships · Data products · Monitoring solutions · Technical collaboration**
-
-## Portfolio policy
-
-Only the projects explicitly listed above should be treated as part of my **selected professional portfolio**.
-
-Other public repositories on this account may include experiments, templates, references, legacy work, or third-party technical material and should not be interpreted as DataVista products unless stated otherwise.
-
-## Source & IP policy
-
-Public repositories are used selectively for **portfolio material, case studies, reusable public work, and technical references**.
-
-**Commercial source code, infrastructure, credentials, private integrations, production data, internal tooling, and protected business logic remain private.**
-
-→ [DataVista Studio](https://datavista.studio/)
+</div>
 
 ---
 
-<sub>Public portfolio material does not imply that proprietary products are open source.</sub>
+## About
+
+I founded **DataVista Studio** to turn complex information flows and recurring operational problems into tools people can use every day.
+
+My work brings together product direction, hands-on implementation, editorial and media workflows, structured data, automation, and commercial platforms. I focus on what the product needs to accomplish, how it works in real conditions, and how it can be maintained.
+
+**Based in Lebanon · Working across Arabic and English products.**
+
+## Selected work
+
+| Product | What it does | Explore |
+| --- | --- | --- |
+| **961.menu** | Digital storefronts, menus, QR access and ordering workflows for businesses in Lebanon. | [961.menu](https://961.menu/) |
+| **DataVista monitoring** | Continuous news-source collection, regional observatories and editorial discovery tools. | [Insights](https://datavista.studio/insights) |
+| **DataVista EBOOK** | An Arabic book and author catalogue built around structured records and source references. | [Library](https://datavista.studio/ebook/) |
+| **SATR Academy** | An Arabic/English learning and course-management product. | [Products](https://datavista.studio/products) |
+| **Media production tools** | Multiview monitoring, controlled recording and live-interview workflows. | [Selected work](https://datavista.studio/work) |
+| **GuestCall** | A public product concept for finding relevant guests and experts for media productions. | [Case study](https://github.com/ZoroTV/guestcall) |
+
+These projects have different levels of access and maturity. A public product description does not mean its source code or operational systems are public.
+
+## A look at the work
+
+<a href="https://datavista.studio/insights">
+  <img src="https://datavista.studio/assets/content/observatory-preview-usa.webp" alt="Actual DataVista observatory interface showing news-source monitoring and filters" width="760" />
+</a>
+
+<sub>Actual DataVista interface image, from the official website. Product interfaces evolve.</sub>
+
+## What I care about
+
+- **Practical design:** readable screens, clear workflows and useful defaults.
+- **Reliable data:** source context, structured records and traceable updates.
+- **Operational quality:** tested changes, documented decisions and responsible releases.
+- **Ownership:** sensible boundaries between public work and protected business systems.
+- **Sustainable products:** tools that solve recurring problems rather than one-off demos.
+
+## Working together
+
+I am interested in product partnerships, media and data workflows, commercial implementations and carefully scoped technical collaborations.
+
+**[Explore DataVista Studio](https://datavista.studio/)** · **[Get in touch](https://datavista.studio/contact)**
+
+---
+
+<sub>Public repositories here may include experiments, forks and learning material. They are not automatically DataVista products. Commercial source code, infrastructure, customer data and private operations remain protected.</sub>
