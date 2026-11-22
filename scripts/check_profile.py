@@ -43,7 +43,7 @@ def verify_workflows_are_read_only(problems):
             problems.append(f"{workflow.name}: write-scoped GITHUB_TOKEN is not permitted")
         if re.search(r"(?m)^\s*runs-on:\s*.*self-hosted", source):
             problems.append(f"{workflow.name}: unexpected self-hosted runner")
-        for action in re.findall(r"(?m)^\s*uses:\s*([^\s#]+)", source):
+        for action in re.findall(r"(?m)^[ \t]*(?:-[ \t]*)?uses:[ \t]*([^\s#]+)", source):
             if not re.fullmatch(r"[\w.-]+/[\w.-]+@[0-9a-f]{40}", action):
                 problems.append(f"{workflow.name}: unpinned action {action}")
         if "actions/checkout@" in source and "persist-credentials: false" not in source:
