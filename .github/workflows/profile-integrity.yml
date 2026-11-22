@@ -6,6 +6,7 @@ on:
     paths:
       - 'README.md'
       - 'scripts/check_profile.py'
+      - 'scripts/test_workflow_safety.py'
       - '.github/workflows/*.yml'
       - '.github/workflows/*.yaml'
   pull_request:
@@ -28,5 +29,7 @@ jobs:
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
         with:
           persist-credentials: false
+      - name: Reject unsafe workflow changes (12 offline regression cases)
+        run: python3 -m unittest discover -s scripts -p 'test_workflow_safety.py' -v
       - name: Check identity and public presentation
         run: python3 scripts/check_profile.py
