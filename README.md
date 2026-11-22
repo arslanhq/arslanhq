@@ -37,9 +37,22 @@ Building media, information and operational products that solve real problems.
 </tr>
 </table>
 
+## Editorial projects &amp; concepts
+
+Six additional art-directed cards give each project its own visual language, with the same format and clear access labels. The artwork is illustrative, not an application screenshot.
+
+<table>
+<tr><td width="50%" valign="top"><a href="https://datavista.studio/observatories/"><img src="https://raw.githubusercontent.com/DataVistaStudio/DataVistaStudio/main/media/cards/observatories.svg" width="600" alt="OBSERVATORIES original editorial art card" /></a><p><strong>OBSERVATORIES</strong> · Public<br/>Regional monitoring and editorial research.</p></td>
+<td width="50%" valign="top"><a href="https://datavista.studio/flashnews/"><img src="https://raw.githubusercontent.com/DataVistaStudio/DataVistaStudio/main/media/cards/flashnews.svg" width="600" alt="FLASHNEWS original editorial art card" /></a><p><strong>FLASHNEWS</strong> · Public<br/>Fast-moving news source coverage.</p></td></tr>
+<tr><td width="50%" valign="top"><a href="https://datavista.studio/economy-desk/"><img src="https://raw.githubusercontent.com/DataVistaStudio/DataVistaStudio/main/media/cards/economy-desk.svg" width="600" alt="ECONOMY DESK original editorial art card" /></a><p><strong>ECONOMY DESK</strong> · Public<br/>Economic information and contextual research.</p></td>
+<td width="50%" valign="top"><a href="https://datavista.studio/newsmap/"><img src="https://raw.githubusercontent.com/DataVistaStudio/DataVistaStudio/main/media/cards/news-map.svg" width="600" alt="NEWS MAP original editorial art card" /></a><p><strong>NEWS MAP</strong> · Public<br/>Geographic discovery of public news.</p></td></tr>
+<tr><td width="50%" valign="top"><a href="https://datavista.studio/aparat/"><img src="https://raw.githubusercontent.com/DataVistaStudio/DataVistaStudio/main/media/cards/aparat.svg" width="600" alt="APARAT original editorial art card" /></a><p><strong>APARAT</strong> · Public interface<br/>Persian–Arabic media and translation workflows.</p></td>
+<td width="50%" valign="top"><a href="https://datavista.studio/jobvista/"><img src="https://raw.githubusercontent.com/DataVistaStudio/DataVistaStudio/main/media/cards/jobvista.svg" width="600" alt="JOBVISTA original editorial art card" /></a><p><strong>JOBVISTA</strong> · Concept<br/>Professional opportunities exploration.</p></td></tr>
+</table>
+
 ## Beyond the highlights
 
-The broader DataVista portfolio includes **CR Multiview**, **Al Mayadeen Talk**, **SATR Academy**, **EBOOK**, **Stock**, **961.menu**, **Aparat**, **Observatories**, **FlashNews**, **Economy Desk**, **News Map** and **JobVista**. Each is presented with its own matching card and accurate access status.
+The complete DataVista portfolio also includes **CR Multiview**, **Al Mayadeen Talk**, **SATR Academy**, **EBOOK**, **Stock** and **961.menu**. See all 16 projects for artwork, launch status and public access details.
 
 **[Browse all 16 project cards](https://github.com/DataVistaStudio/DataVistaStudio/blob/main/portfolio/README.md)**
 
