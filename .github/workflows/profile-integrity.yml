@@ -9,13 +9,8 @@ on:
       - 'scripts/test_workflow_safety.py'
       - '.github/workflows/*.yml'
       - '.github/workflows/*.yaml'
+  # Run for every PR because this is a required merge check.
   pull_request:
-    paths:
-      - 'README.md'
-      - 'scripts/check_profile.py'
-      - 'scripts/test_workflow_safety.py'
-      - '.github/workflows/*.yml'
-      - '.github/workflows/*.yaml'
   workflow_dispatch:
 
 permissions:
